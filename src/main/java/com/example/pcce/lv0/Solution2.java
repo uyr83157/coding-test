@@ -3,7 +3,6 @@ package com.example.pcce.lv0;
 import java.util.Scanner;
 
 public class Solution2 {
-
 	// [PCCE 기출문제] 2번 / 각도 합치기
 
 	public static void main(String[] args) {
